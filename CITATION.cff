@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the paper below."
+title: "Certificates and exhaustive searches for pa(5;6) = 31 and z(43;2) <= 294"
+abstract: "Certificates, exhaustive searches and the parameter census supporting the paper below. C++17 and Python 3, standard libraries only; run-all.sh checks every claim and stops at the first mismatch."
+authors:
+  - family-names: Sadhu
+    given-names: Ankan
+    affiliation: "Government College of Engineering and Ceramic Technology, Kolkata"
+    email: ankan-sadhu-br24-3003@gcect.ac.in
+license: Apache-2.0
+repository-code: "https://github.com/Alphoenixx/Improved-upper-bound-for-Zarankiewicz-number-z-43-2-294-and-hexary-packing-number-pa-5-6-31"
+year: 2026
+preferred-citation:
+  type: article
+  title: "An improved upper bound for the Zarankiewicz number z(43;2) <= 294 via structural rigidity, including the hexary packing number pa(5;6) = 31"
+  authors:
+    - family-names: Sadhu
+      given-names: Ankan
+  year: 2026
